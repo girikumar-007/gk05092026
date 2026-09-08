@@ -1,0 +1,500 @@
+   30  clear
+   31  pwd
+   32  ls -lrta
+   33  cd Devops-Installables/
+   34  ls 
+   35  cd GIT/
+   36  ls -lrta
+   37  cd GIT-
+   38  cd GIT-PRATICE/
+   39  pwd
+   40  ls -lrta
+   41  cd git_demo/
+   42  ls -lrta
+   43  git init
+   44  ls -lrta
+   45  pwd
+   46  ls -lrta
+   47  touch file1.txt
+   48  ls -lrta
+   49  git status
+   50  clear
+   51  git config --global user.name "girish"
+   52  git config --global user.email "girish500@gmail.com"
+   53  pwd
+   54  d:
+   55  cd d
+   56  cd \d
+   57  cd d:
+   58  pwd
+   59  pwd
+   60  ls -lrta
+   61  cd Devops-Installables/
+   62  ls -lta
+   63  cd GIT/
+   64  ls -lrta
+   65  cd GIT-PRATICE/
+   66  ls -lrta
+   67  cd git_demo/
+   68  ls -lrta
+   69  pwd
+   70  clear
+   71  wpd
+   72  pwd
+   73  clear
+   74  pwd
+   75  pwd
+   76  ls -lrta
+   77  touch file2.txt
+   78  clear
+   79  ls -lrta
+   80  git status
+   81  cler
+   82  clear
+   83  git add .
+   84  git status
+   85  git commit -m "new files added in the empty repository"
+   86  git status
+   87  git log
+   88  git status
+   89  ls -lrta
+   90  git status
+   91  git add file1.txt 
+   92  git commit -m "new change added in file1"
+   93  git status
+   94  git log
+   95  touch file3.txt file4.txt file5.txt
+   96  git status
+   97  git status
+   98  git add file3.txt file4.txt
+   99  git status
+  100  git commit -m "two new files are added"
+  101  git status
+  102  clear
+  103  pwd
+  104  ls -lrt
+  105  git status
+  106  touch .gitignore indes.html test.log report.xml
+  107  git status
+  108  git status
+  109  git status
+  110  git status
+  111  touch report.xml
+  112  git status
+  113  git add .
+  114  git commit -m "adding all the file"
+  115  git status
+  116  git log
+  117  pwd
+  118  cd d/
+  119  d/
+  120  pwd
+  121  cd d:
+  122  pwd
+  123  ls -lrta
+  124  cd DevOps
+  125  LS -LTA
+  126  ls -lrta
+  127  cd .
+  128  pwd
+  129  cd ..
+  130  pwd
+  131  ls -lrta
+  132  cd Devops-Installables/
+  133  ls -lrta
+  134  cd GIT/
+  135  ls -lrta
+  136  cd GIT-PRATICE/
+  137  ls -lrta
+  138  cd git_demo/
+  139  ls -lrta
+  140  git branch
+  141  git log
+  142  git branch My_Branch
+  143  git branch
+  144  pw
+  145  pwd
+  146  git branch
+  147  git co My_Branch
+  148  git checkout My_Branch 
+  149  git staus
+  150  git status
+  151  ls -lrta
+  152  touch Myfile2
+  153  del Myfile2 
+  154  rm Myfile2
+  155  touch Myfile.txt
+  156  git status
+  157  git add .
+  158  ls -lrta
+  159  git checkout master 
+  160  pwd
+  161  git branch
+  162  ls -lrta
+  163  git branch
+  164  ls -lrta
+  165  git status Myfile.txt 
+  166  git status
+  167  pwd
+  168  git checkout My_Branch 
+  169  ls -lrta
+  170  git staus
+  171  git status
+  172  git commit -m "Adding new file in branch"
+  173  ls -lrta
+  174  git status
+  175  git checkout master 
+  176  dir
+  177  ls -lrta
+  178  pwd
+  179  git checkout My_Branch 
+  180  git status
+  181  git commit -m "change in file1.txt"
+  182  git commit -a -m "change in file1.txt"
+  183  git checkout master 
+  184  git merge My_Branch 
+  185  ls -lrta
+  186  git status
+  187  git status
+  188  git commit -am "a change in master"
+  189  git status
+  190  git checkout My_Branch 
+  191  git status
+  192  git commit -am "a change in my branch"
+  193  git checkout master 
+  194  git merge My_Branch 
+  195  git megretool
+  196  git mergetool
+  197  git branch My_Branch 
+  198  git checkout My_Branch 
+  199  pwd
+  200  git status
+  201  git commit -am "changes from branch"
+  202  git checkout My_Branch 
+  203  git checkout master 
+  204  git checkout My_Branch 
+  205  git merge master 
+  206  git checkout master 
+  207  df -g
+  208  pwd
+  209  ls -lrlta
+  210  clear
+  211  pwd
+  212  ls -lrta
+  213  cd D:\Devops-Installables\GIT\GIT-Remote-Repository
+  214  cd D:/Devops-Installables/GIT/GIT-Remote-Repository
+  215  pwd
+  216  ls -lrta
+  217  clear
+  218  pwd
+  219  git remote
+  220  git clone https://github.com/girikumar-007/Devops-2026-repo.git
+  221  ls
+  222  cd Devops-2026-repo/
+  223  ls -lrta
+  224  cat README.md 
+  225  git branch
+  226  pwd
+  227  git branch
+  228  pwd
+  229  ls -lrta
+  230  pwd
+  231  git --version
+  232  git -v
+  233  cd D:\Devops-Installables\GIT\GIT-PRATICE\git_repo
+  234  pwd
+  235  cd d/
+  236  cd d:
+  237  pwd
+  238  cd Devops-Installables/GIT/GIT-PRATICE/git_repo/
+  239  pwd
+  240  ls
+  241  ls -a
+  242  pwd
+  243  ls
+  244  git init
+  245  ls
+  246  ls -la
+  247  ls -a
+  248  clear
+  249  cls
+  250  clear
+  251  pwd
+  252  clear
+  253  cleartool lsvob 
+  254  clear
+  255  git info
+  256  git status
+  257  git log
+  258  git help
+  259  git st
+  260  git status
+  261  pwd
+  262  touch file1
+  263  ls -l
+  264  rm file1 
+  265  git status
+  266  ls
+  267  touch file1.txt
+  268  vi file1.txt 
+  269  git status
+  270  git add file1.txt 
+  271  git status
+  272  ls
+  273  git help
+  274  git rm file1.txt 
+  275  git rm -f file1.txt 
+  276  git status
+  277  ls
+  278  clear
+  279  git config --global user.name "girish"
+  280  git config --global user.email "girish500@gmail.com"
+  281  touch file1.txt
+  282  vi file1.txt 
+  283  git status
+  284  git add file1.txt 
+  285  git status
+  286  ls
+  287  git commit -m "new file is added"
+  288  git status
+  289  clear
+  290  git log
+  291  vi file1.txt 
+  292  git status
+  293  git commit -m "new change"
+  294  git add file1.txt 
+  295  git commit -m "new change"
+  296  git status
+  297  git log
+  298  cat file1.txt 
+  299  touch file2.txt file3.txt file4.txt file5.txt
+  300  git status
+  301  vi file2.txt 
+  302  vi file3.txt 
+  303  git status
+  304  cat file2.txt 
+  305  git status
+  306  git add file2.txt file3.txt 
+  307  git status
+  308  git commit -m "new files added file2 and 3"
+  309  git status
+  310  git log
+  311  git status
+  312  clear
+  313  git log 
+  314  git log commit
+  315  git log -r 2 
+  316  touch gitignore index.html report.xml test.log
+  317  touch gitignore index.html report.xml test.logs
+  318  git status
+  319  vi gitignore 
+  320  git status
+  321  vi gitignore 
+  322  rm gitignore 
+  323  touch .gitignore
+  324  ls
+  325  ls -l
+  326  ls -a
+  327  ls -la
+  328  vi .gitignore 
+  329  git status
+  330   git log
+  331  ls -la
+  332  git status
+  333  git add -a
+  334  git add .
+  335  git status
+  336  git commit -m "Adding all file"
+  337  git status
+  338  git log
+  339  clear
+  340  git branch
+  341  git branch MyBranch
+  342  git branch
+  343  git switch MyBranch 
+  344  git branch
+  345  git branch
+  346  ls
+  347  git checkout 1EBrn
+  348  git branch 1EBrn
+  349  git branch
+  350  git switch 1EBrn 
+  351  ls -lat
+  352  git switch MyBranch 
+  353  touch MyBranch.txt
+  354  vi MyBranch.txt 
+  355  git switch master
+  356  git branch
+  357  git switch MyBranch 
+  358  git status
+  359  git add -am "new file added in branch MyBranch"
+  360  git add .
+  361  ls
+  362  git commit -am "new file added in branch MyBranch"
+  363  git switch master 
+  364  git merge MyBranch 
+  365  git switch MyBranch 
+  366  vi MyBranch.txt 
+  367  git switch master 
+  368  vi MyBranch.txt 
+  369  git switch MyBranch 
+  370  git status
+  371  git add .
+  372  git commit -am "new line is added in MyBranch"
+  373  git switch master 
+  374  vi MyBranch.txt 
+  375  cat MyBranch.txt 
+  376  git merge MyBranch 
+  377  git mergetool
+  378  ls
+  379  cat MyBranch.txt 
+  380  git switch MyBranch 
+  381  git switch MyBranch 
+  382  git status
+  383  git add MyBranch.txt 
+  384  git commit -am "new line is added in master branch"
+  385  cat MyBranch.txt 
+  386  git switch MyBranch 
+  387  cat MyBranch.txt 
+  388  git switch master 
+  389  git merge MyBranch 
+  390  git mergetool
+  391  git status
+  392  git commit -am "merged from changes from MyBranch"
+  393  git status
+  394   git status
+  395  cat MyBranch.txt
+  396  clear
+  397  pwd
+  398  git log
+  399  git log
+  400  clear
+  401  pwd
+  402  ls -lrta
+  403  vi .gitignore 
+  404  ls -la
+  405  git status
+  406  git add . 
+  407  ls -la
+  408  git commit -am ".gitignore modified"
+  409  ls -la
+  410  vi .gitignore 
+  411  ls -lrta
+  412  ls -la
+  413  git staus
+  414  git status
+  415  git status
+  416  ls -la
+  417  git status
+  418  git staus
+  419  git staus
+  420  git status
+  421  git restore .gitignore 
+  422  git status
+  423  cat .gitignore 
+  424  ls -la
+  425  vi file2.txt 
+  426  git status
+  427  clear
+  428  git status
+  429  git restore file2.txt 
+  430  cat file2.txt 
+  431  clear
+  432  git check-ignore -v path/to/yourfile.txt
+  433  git check-ignore -v /d/Devops-Installables/GIT/GIT-PRATICE/git_repo/file2.txt
+  434  clear
+  435  cat .gitignore 
+  436  git status
+  437  cat file2.txt
+  438  git status
+  439  vi file2
+  440  vi file2.txt 
+  441  git status
+  442  cat .gitignore 
+  443  pwd
+  444  ls -la
+  445  touch file5.txt
+  446  git status
+  447  ls -la
+  448  ls -la
+  449  id
+  450  clear
+  451  pwd
+  452  ls -lrta
+  453  cat file5.txt 
+  454  vi .gitignore
+  455  git status
+  456  git status
+  457  cat file2.txt 
+  458  git checkout file2.txt
+  459  cat file2.txt 
+  460  clear
+  461  pwd
+  462  pwd
+  463  ls -lrta
+  464  D:
+  465  d:
+  466  pwd
+  467  cd /d
+  468  dir
+  469  ls
+  470  cd Devops-Installables/GIT/GIT-PRATICE/git-remote-demo-050926/
+  471  clear
+  472  pwd
+  473  git clone https://github.com/girikumar-007/gk05092026.git
+  474  ls
+  475  cd gk05092026/
+  476  ls -la
+  477  clear
+  478  pwd
+  479  ls -la
+  480  cat README.md 
+  481  git info
+  482  git help
+  483  clear
+  484  pwd
+  485  git log
+  486  git branch
+  487  pwd
+  488  ls -la
+  489  vi README.md 
+  490  git status
+  491  git add .
+  492  git commit -m "updated README file from Local"
+  493  git push
+  494  cat README.md 
+  495  git remote
+  496  git remote -v
+  497  cat README.md 
+  498  git fetch
+  499  cat README.md 
+  500  git pull
+  501  cat README.md 
+  502  cat README.md 
+  503  git orign
+  504  git origin
+  505  git remote
+  506  git remote -v
+  507  git fetch
+  508  cat README.md 
+  509  git merge
+  510  cat README.md 
+  511  history
+  512  pwd
+  513  ls -lat
+  514  mkdir Private
+  515  mk Private/
+  516  cd Private/
+  517  pwd
+  518  ls -lrta
+  519  git status
+  520  ls -la
+  521  pwd
+  522  cd ..
+  523  ls -lrta
+  524  git status
+  525  pwd
+  526  pwd
+  527  cd Private/
+  528  pwd
+  529  history > /d/Devops-Installables/GIT/GIT-PRATICE/git-remote-demo-050926/gk05092026/Private/history.txt
